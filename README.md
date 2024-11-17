@@ -11,9 +11,9 @@
 
 - Установите **[FastCraft](https://ru-minecraft.ru/mody-minecraft/47556-1710fastcraft-uluchshenie-proizvoditelnosti-minecraft.html)**, **[Optifine](https://ru-minecraft.ru/mody-minecraft/2583-optifine-hd-fps.html)**, и **[FoamFix](https://ru-minecraft.ru/mody-minecraft/49162-foamfix.html)**. (В особенности **FastCraft**)
 - Наслаждайтесь стабильными 100 кадрами в секунду, вместо 0-1!
-- Так же, желательно поставить [ClientFixer](https://github.com/gamerforEA/Minecraft-ClientFixer), ибо на старых версиях шрифт такой-се...
+- Так же, желательно поставить [**ClientFixer**](https://github.com/gamerforEA/Minecraft-ClientFixer), ибо на старых версиях шрифт такой-себе...
 
-### Особенности перевода:
+### О переводе:
 
 - Все мобы, оружие и блоки были переведены вручную.
 - Локализация охватывает весь контент мода.
